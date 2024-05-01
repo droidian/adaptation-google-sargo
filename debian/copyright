@@ -3,11 +3,11 @@ Upstream-Name: adaptation-google-sargo
 Source: https://github.com/droidian/adaptation-google-sargo
 
 Files: *
-Copyright: 2023 Bardia Moshiri <fakeshell@bardia.tech>
+Copyright: 2024 Erik Inkinen <erik.inkinen@erikinkinen.fi>
 License: BSD-3-clause
 
 Files: debian/*
-Copyright: 2023 Bardia Moshiri <fakeshell@bardia.tech>
+Copyright: 2024 Erik Inkinen <erik.inkinen@erikinkinen.fi>
 License: BSD-3-clause
 
 License: BSD-3-clause
